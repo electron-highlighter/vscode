@@ -1,0 +1,25 @@
+{
+    "name": "electron-highlighter",
+    "displayName": "electron-highlighter",
+    "description": "Electron highlighter syntax theme from Atom",
+    "version": "0.0.1",
+    "repository": {
+        "url": "https://github.com/mikemcbride/vscode-electron-highlighter.git"
+    },
+    "publisher": "mikemcbride",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Electron Highlighter",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Electron Highlighter-color-theme.json"
+            }
+        ]
+    }
+}
