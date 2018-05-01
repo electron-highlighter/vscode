@@ -26,6 +26,11 @@
     "one dark",
     "electron"
   ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#212836",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
