@@ -606,6 +606,13 @@
             }
         },
         {
+            "name": "Punctuation Definition Block",
+            "scope": "punctuation.definition.block",
+            "settings": {
+                "foreground": "#a8b5d1"
+            }
+        },
+        {
             "name": "Punctuation Definition Template Expression",
             "scope": [
                 "punctuation.definition.template-expression.begin",
