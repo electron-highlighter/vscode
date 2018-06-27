@@ -125,7 +125,7 @@
         "notifications.foreground": "#f8fafdcc",
         "panel.background": "#1b212c",
         "panel.border": "#181a1f",
-        "panelTitle.activeBorder": "#181a1f",
+        "panelTitle.activeBorder": "#a8b5d1aa",
         "panelTitle.activeForeground": "#a8b5d1",
         "panelTitle.inactiveForeground": "#a8b5d180",
         "peekView.border": "#29244b",
