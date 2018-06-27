@@ -36,7 +36,7 @@
       {
         "label": "Electron Highlighter",
         "uiTheme": "vs-dark",
-        "path": "./themes/Electron Highlighter-color-theme.json"
+        "path": "./themes/electron-highlighter-color-theme.json"
       }
     ]
   }
