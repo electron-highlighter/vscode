@@ -2,7 +2,7 @@
   "name": "electron-highlighter",
   "displayName": "Electron Highlighter Syntax",
   "description": "Electron highlighter syntax theme from Atom",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -15,6 +15,9 @@
   "publisher": "mikemcbride",
   "engines": {
     "vscode": "^1.22.0"
+  },
+  "scripts": {
+    "publish": "vsce publish"
   },
   "categories": [
     "Themes"

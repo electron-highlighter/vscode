@@ -13,8 +13,6 @@
         "button.background": "#82aaffcc",
         "button.foreground": "#f8fafdcc",
         "button.hoverBackground": "#82aaff",
-        "contrastActiveBorder": "#141820",
-        "contrastBorder": "#141820",
         "debugExceptionWidget.background": "#141820",
         "debugExceptionWidget.border": "#a8b5d1",
         "debugToolBar.background": "#141820",
