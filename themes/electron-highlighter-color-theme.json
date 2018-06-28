@@ -470,10 +470,7 @@
         },
         {
             "name": "Library class/type",
-            "scope": [
-                "support.type",
-                "support.class"
-            ],
+            "scope": "support.type",
             "settings": {
                 "foreground": "#ff5874"
             }
