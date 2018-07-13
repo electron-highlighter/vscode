@@ -420,7 +420,6 @@
             "name": "HTML Tag names",
             "scope": [
                 "entity.name.tag",
-                "meta.tag.other.html",
                 "meta.tag.other.js",
                 "meta.tag.other.tsx",
                 "entity.name.tag.tsx",
