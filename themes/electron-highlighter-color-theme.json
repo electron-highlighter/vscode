@@ -53,7 +53,7 @@
         "editorGroup.dropBackground": "#82aaff53",
         "editorGroupHeader.noTabsBackground": "#181a1f",
         "editorGroupHeader.tabsBackground": "#1b212c",
-        "editorGroupHeader.tabsBorder": "#212836",
+        "editorGroupHeader.tabsBorder": "#21283600",
         "editorGutter.addedBackground": "#43d08acc",
         "editorGutter.background": "#212836",
         "editorGutter.deletedBackground": "#ff5874",
