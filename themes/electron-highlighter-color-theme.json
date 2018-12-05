@@ -1175,6 +1175,14 @@
             }
         },
         {
+            "name": "JavaScript Variable Declaration e.g. `let`, `const`",
+            "scope": "meta.method.declaration meta.var.expr.js storage.type.js",
+            "settings": {
+                "foreground": "#c792ea",
+                "fontStyle": ""
+            }
+        },
+        {
             "name": "JavaScript Class declaration",
             "scope": "storage.type.class.js",
             "settings": {
@@ -1258,7 +1266,8 @@
             "name": "JavaScript Variables",
             "scope": [
                 "variable.js",
-                "variable.other.js"
+                "variable.other.js",
+                "variable.other.constant.js"
             ],
             "settings": {
                 "foreground": "#a8b5d1"
