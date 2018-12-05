@@ -1158,7 +1158,10 @@
         },
         {
             "name": "JavaScript Classes",
-            "scope": "meta.class entity.name.type.class.js",
+            "scope": [
+                "meta.class entity.name.type.class.js",
+                "support.class.builtin.js"
+            ],
             "settings": {
                 "foreground": "#fffa9e"
             }
@@ -1175,7 +1178,7 @@
             "name": "JavaScript Class declaration",
             "scope": "storage.type.class.js",
             "settings": {
-                "foreground": "#c792ea",
+                "foreground": "#fffa9e",
                 "fontStyle": ""
             }
         },
