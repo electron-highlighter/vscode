@@ -2,7 +2,7 @@
   "name": "electron-highlighter",
   "displayName": "Electron Highlighter Syntax",
   "description": "Electron highlighter syntax theme from Atom",
-  "version": "1.1.9",
+  "version": "1.1.10",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -30,10 +30,6 @@
     "electron"
   ],
   "icon": "images/icon.png",
-  "galleryBanner": {
-    "color": "#212836",
-    "theme": "dark"
-  },
   "contributes": {
     "themes": [
       {
