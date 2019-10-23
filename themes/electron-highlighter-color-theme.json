@@ -1186,7 +1186,7 @@
             "name": "JavaScript Class declaration",
             "scope": "storage.type.class.js",
             "settings": {
-                "foreground": "#fffa9e",
+                "foreground": "#c792ea",
                 "fontStyle": ""
             }
         },
