@@ -323,8 +323,11 @@
             }
         },
         {
-            "name": "Comma in functions",
-            "scope": "meta.function punctuation.separator.comma",
+            "name": "Commas in functions and JS",
+            "scope": [
+                "meta.function punctuation.separator.comma",
+                "punctuation.separator.comma.js"
+            ],
             "settings": {
                 "foreground": "#506686"
             }
