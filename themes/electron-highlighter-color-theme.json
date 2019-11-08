@@ -4,6 +4,8 @@
     "colors": {
         "activityBar.background": "#141820",
         "activityBar.border": "#141820",
+        "activityBar.activeBackground": "#141820",
+        "activityBar.activeBorder": "#457dff",
         "activityBar.dropBackground": "#82aaff53",
         "activityBar.foreground": "#c0c6d3",
         "activityBarBadge.background": "#457dff",
