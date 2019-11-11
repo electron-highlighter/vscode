@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "electron-highlighter" extension will be documented in this file.
 
+## 1.1.16
+- Modifies activityBar active and inactive foreground colors
+
 ## 1.1.15
 - Adds color customizations for modified tab border indicators (when you set `"workbench.editor.highlightModifiedTabs": true` in settings)
 
