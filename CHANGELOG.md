@@ -1,7 +1,23 @@
 # Change Log
 All notable changes to the "electron-highlighter" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 1.1.15
+- Adds color customizations for modified tab border indicators (when you set `"workbench.editor.highlightModifiedTabs": true` in settings)
+
+## 1.1.14
+- Adds color customizations for new `activityBar` options introduced in VS Code 1.40.0
+
+## 1.1.13
+- Changes the comma color from 1.1.12 to be less muted (was too hard to see)
+
+## 1.1.12
+- Adds highlighting rule for commas that were not being properly targeted
+
+## 1.1.11
+- Fixes incorrect highlighting of `Class` keyword
+
+## 1.0.0...1.1.10
+- Sorry... I did a bad job documenting changes. I'll try to be better going forward.
 
 ## 1.0.0 
 - Initial release
