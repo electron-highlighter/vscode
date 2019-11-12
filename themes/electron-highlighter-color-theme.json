@@ -1309,6 +1309,20 @@
             }
         },
         {
+            "name": "JavaScript Console Class",
+            "scope": "support.class.console.js",
+            "settings": {
+                "foreground": "#fffa9e"
+            }
+        },
+        {
+            "name": "JavaScript Console Function",
+            "scope": "support.function.console.js",
+            "settings": {
+                "foreground": "#4ff2f8"
+            }
+        },
+        {
             "name": "JSON Property Names",
             "scope": "support.type.property-name.json",
             "settings": {
