@@ -592,6 +592,13 @@
             }
         },
         {
+            "name": "Meta Object Binding (object destructuring)",
+            "scope": "meta.object-binding-pattern-variable.js",
+            "settings": {
+                "foreground": "#a8b5d1"
+            }
+        },
+        {
             "name": "Meta Delimiter Period",
             "scope": "meta.delimiter.period",
             "settings": {

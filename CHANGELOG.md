@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "electron-highlighter" extension will be documented in this file.
 
+## 1.1.17
+- Fix bracket color in object destructuring
+
 ## 1.1.16
 - Modifies activityBar active and inactive foreground colors
 
