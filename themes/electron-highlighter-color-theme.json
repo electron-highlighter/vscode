@@ -593,8 +593,11 @@
             }
         },
         {
-            "name": "Meta Object Binding (object destructuring)",
-            "scope": "meta.object-binding-pattern-variable.js",
+            "name": "Meta Object/Array Binding (destructuring)",
+            "scope": [
+                "meta.object-binding-pattern-variable.js",
+                "meta.array-binding-pattern-variable.js",
+            ],
             "settings": {
                 "foreground": "#a8b5d1"
             }
