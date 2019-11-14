@@ -333,7 +333,8 @@
             "name": "Commas in functions and JS",
             "scope": [
                 "meta.function punctuation.separator.comma",
-                "punctuation.separator.comma.js"
+                "punctuation.separator.comma.js",
+                "punctuation.separator.parameter.js"
             ],
             "settings": {
                 "foreground": "#a8b5d1"

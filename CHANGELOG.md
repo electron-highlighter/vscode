@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "electron-highlighter" extension will be documented in this file.
 
+## 1.1.19
+- Fix comma color in method signatures
+
 ## 1.1.18
 - Better highlighting support for JS `console` object and methods
 
