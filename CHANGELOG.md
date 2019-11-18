@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "electron-highlighter" extension will be documented in this file.
 
+## 1.1.21
+- Fix bracket color in object destructuring inside of method signatures
+
 ## 1.1.20
 - Fix bracket color in array destructuring
 
