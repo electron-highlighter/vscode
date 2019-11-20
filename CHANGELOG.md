@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "electron-highlighter" extension will be documented in this file.
 
+## 1.1.22
+- Tweak tabs border stuff
+
 ## 1.1.21
 - Fix bracket color in object destructuring inside of method signatures
 
