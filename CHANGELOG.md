@@ -1,6 +1,12 @@
 # Change Log
 All notable changes to the "electron-highlighter" extension will be documented in this file.
 
+## 1.1.25
+- Colors the modified settings item indicator
+
+## 1.1.24
+- Makes dropdown inputs consistent with other inputs in Settings GUI
+
 ## 1.1.23
 - Adds some missing terminal styles
 
