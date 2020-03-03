@@ -13,6 +13,11 @@
 5.  Click **Install** to install it
 6.  Preferences > Themes > Syntax Theme > **Electron Highlighter**
 
+
+- okay
+- more stuff
+- it's a list mkay
+
 Or:
 
 1. Install Atom

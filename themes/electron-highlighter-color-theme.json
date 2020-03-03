@@ -584,7 +584,7 @@
             "name": "null",
             "scope": "constant.language.null",
             "settings": {
-                "foreground": "#ff5874"
+                "foreground": "#FFBF7A"
             }
         },
         {
@@ -649,6 +649,13 @@
             "scope": "constant.language.boolean",
             "settings": {
                 "foreground": "#ff5874"
+            }
+        },
+        {
+            "name": "Undefined",
+            "scope": "constant.language.undefined",
+            "settings": {
+                "foreground": "#FFBF7A"
             }
         },
         {
