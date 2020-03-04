@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "electron-highlighter" extension will be documented in this file.
 
+## 1.1.29
+- Update screenshots
+
 ## 1.1.28
 - Set highlighting for `undefined` constant to orange. Change `null` from red to orange for consistency.
 
