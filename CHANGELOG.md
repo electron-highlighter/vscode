@@ -1,6 +1,12 @@
 # Change Log
 All notable changes to the "electron-highlighter" extension will be documented in this file.
 
+## 1.2.0
+
+Doing a minor bump here because this kind of significantly changes the look of JavaScript files
+
+- Changed object property color from red to default text color
+
 ## 1.1.29
 - Update screenshots
 
