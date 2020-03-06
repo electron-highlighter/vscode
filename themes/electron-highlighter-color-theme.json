@@ -891,6 +891,13 @@
             }
         },
         {
+            "name": "this Keyword",
+            "scope": "variable.language.this",
+            "settings": {
+                "foreground": "#ff5874"
+            }
+        },
+        {
             "name": "Support Variable Property",
             "scope": "support.variable.property",
             "settings": {

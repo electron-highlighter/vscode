@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "electron-highlighter" extension will be documented in this file.
 
+## 1.2.1
+- Make `this` keyword red after last versions changes
+
 ## 1.2.0
 
 Doing a minor bump here because this kind of significantly changes the look of JavaScript files
