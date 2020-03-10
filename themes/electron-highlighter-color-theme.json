@@ -268,8 +268,7 @@
         {
             "name": "String Quoted",
             "scope": [
-                "string.quoted",
-                "variable.other.readwrite.js"
+                "string.quoted"
             ],
             "settings": {
                 "foreground": "#6af699"
@@ -356,7 +355,7 @@
                 "keyword"
             ],
             "settings": {
-                "foreground": "#a8b5d1",
+                "foreground": "#c792ea",
                 "fontStyle": ""
             }
         },

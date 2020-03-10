@@ -1,6 +1,11 @@
 # Change Log
 All notable changes to the "electron-highlighter" extension will be documented in this file.
 
+## 1.2.2
+
+- set punctuation.accessor and keyword colors to purple. This affects things like optional chaining in JS and the `let` keyword in Rust
+- remove a declaration causing JS variables to become green after the latest VSCode update
+
 ## 1.2.1
 - Make `this` keyword red after last versions changes
 
