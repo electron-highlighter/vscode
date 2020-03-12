@@ -9,6 +9,10 @@ class Sale {
     this.decoratorsList.push(Sale[decorator])
   }
 
+  static async remotePrice(price) {
+    return await Promise.all([fetch(`/api/convert/${price}`)])
+  }
+
   getPrice() {
     for (let decorator of this.decoratorsList) {
       this.price = decorator(this.price)

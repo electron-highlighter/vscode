@@ -1322,8 +1322,8 @@
             }
         },
         {
-            "name": "JavaScript Support Classes",
-            "scope": "support.class.js",
+            "name": "Support Classes",
+            "scope": "support.class",
             "settings": {
                 "foreground": "#a8b5d1"
             }
@@ -1542,13 +1542,6 @@
             ],
             "settings": {
                 "foreground": "#a8b5d1"
-            }
-        },
-        {
-            "name": "Support Classes in PHP",
-            "scope": "support.class.php",
-            "settings": {
-                "foreground": "#fffa9e"
             }
         },
         {
