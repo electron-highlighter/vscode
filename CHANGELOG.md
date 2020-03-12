@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the "electron-highlighter" extension will be documented in this file.
 
+## 1.2.4
+- Remove superfluous config for console class that is now covered by more generic `support.class`
+- fix color on `support.class` (I intended for it to be yellow, not gray)
+
 ## 1.2.3
 - More consistent highlighting of Classes
 

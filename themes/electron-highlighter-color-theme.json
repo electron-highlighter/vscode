@@ -1325,13 +1325,6 @@
             "name": "Support Classes",
             "scope": "support.class",
             "settings": {
-                "foreground": "#a8b5d1"
-            }
-        },
-        {
-            "name": "JavaScript Console Class",
-            "scope": "support.class.console.js",
-            "settings": {
                 "foreground": "#fffa9e"
             }
         },
