@@ -675,9 +675,11 @@
         {
             "name": "Support Type Property Name & entity name tags",
             "scope": [
-                "support.type.vendor.property-name",
-                "support.constant.vendor.property-value",
                 "support.type.property-name",
+                "support.type.vendor.property-name",
+                "support.type.vendored.property-name",
+                "support.constant.vendor.property-value",
+                "support.constant.vendored.property-value",
                 "meta.property-list entity.name.tag"
             ],
             "settings": {
@@ -1604,6 +1606,16 @@
             "scope": "source.python variable.language.special",
             "settings": {
                 "foreground": "#82aaff"
+            }
+        },
+        {
+            "name": "CSS Variables (aka custom properties)",
+            "scope": [
+                "variable.css",
+                "variable.argument.css"
+            ],
+            "settings": {
+                "foreground": "#ff5874"
             }
         },
         {

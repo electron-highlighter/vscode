@@ -1,5 +1,9 @@
+:root {
+  --font-base: 16px;
+}
 .someClass {
   font-family: serif;
+  font-size: var(--font-base);
 }
 
 #someID {
@@ -13,4 +17,5 @@ main {
 
 input[type="text"] {
   border-radius: 0;
+  -webkit-border-radius: 0;
 }
