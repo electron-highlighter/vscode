@@ -9,7 +9,7 @@
 	<br>
 </div>
 
-Electron Highlighter Syntax is a dark UI and syntax theme for VS Code. This started as the <span id="#footnote-back">official</span>[[1]](#footnote) VS Code port of my [Electron Highlighter syntax theme for Atom](https://github.com/mikemcbride/electron-highlighter-syntax), but I have since switched to using VS Code as my main editor so it's no longer really a "port".
+Electron Highlighter Syntax is a dark UI and syntax theme for VS Code. This started as the official[[1]](#footnote) VS Code port of my [Electron Highlighter syntax theme for Atom](https://github.com/mikemcbride/electron-highlighter-syntax), but I have since switched to using VS Code as my main editor so it's no longer really a "port".
 
 ## Screenshots
 
@@ -29,4 +29,6 @@ Electron Highlighter Syntax is a dark UI and syntax theme for VS Code. This star
 
 ---
 
-[[1]](#footnote-back)<p id="footnote">I hesitate to say my theme is popular enough to have an "official" port to another editor, but someone did make a theme and claim that it was a port of my Atom theme and frankly it was not great, so this is just to clarify that this is the _only_ extension that I'm endorsing as part of this little ecosystem of themes I've made.</p>
+### Notes
+
+<p id="footnote">I hesitate to say my theme is popular enough to have an "official" port to another editor, but someone did make a theme and claim that it was a port of my Atom theme and frankly it was not great, so this is just to clarify that this is the _only_ extension that I'm endorsing as part of this little ecosystem of themes I've made.</p>
