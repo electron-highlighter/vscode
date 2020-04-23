@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "electron-highlighter" extension will be documented in this file.
 
+## 1.2.6
+- Minor UI updates, mostly around standardizing highlight colors for selection ranges
+
 ## 1.2.5
 - Make vendored CSS property names the same color as normal property names
 - Make CSS custom property ("variable") color red to match variable color in CSS preprocessors
