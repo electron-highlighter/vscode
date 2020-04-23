@@ -9,7 +9,7 @@
 	<br>
 </div>
 
-### About
+## About
 
 Electron Highlighter Syntax is a dark UI and syntax theme for VS Code. This started as the official[[1]](#notes) VS Code port of my [Electron Highlighter syntax theme for Atom](https://github.com/mikemcbride/electron-highlighter-syntax), but I have since switched to using VS Code as my main editor so it's no longer really a "port".
 
