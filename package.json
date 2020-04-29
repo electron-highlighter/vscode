@@ -17,6 +17,7 @@
     "vscode": "^1.22.0"
   },
   "scripts": {
+    "build": "node ./config/build.js",
     "publish": "vsce publish"
   },
   "categories": [
@@ -38,5 +39,8 @@
         "path": "./themes/electron-highlighter-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "lodash": "^4.17.15"
   }
 }
