@@ -243,15 +243,8 @@
             "name": "Inserted",
             "scope": "markup.inserted.diff",
             "settings": {
-                "foreground": "#6af699ff",
+                "foreground": "#6af699",
                 "fontStyle": "italic"
-            }
-        },
-        {
-            "name": "Global settings",
-            "settings": {
-                "background": "#141820",
-                "foreground": "#a8b5d1"
             }
         },
         {
@@ -1105,8 +1098,8 @@
         {
             "name": "Property Values for CSS",
             "scope": [
-               "support.constant.font-name",
-               "support.constant.color" 
+                "support.constant.font-name",
+                "support.constant.color"
             ],
             "settings": {
                 "foreground": "#ffbf7a"
