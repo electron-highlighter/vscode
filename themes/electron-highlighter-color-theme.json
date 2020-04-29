@@ -580,7 +580,7 @@
             "name": "null",
             "scope": "constant.language.null",
             "settings": {
-                "foreground": "#FFBF7A"
+                "foreground": "#ffbf7a"
             }
         },
         {
@@ -651,7 +651,7 @@
             "name": "Undefined",
             "scope": "constant.language.undefined",
             "settings": {
-                "foreground": "#FFBF7A"
+                "foreground": "#ffbf7a"
             }
         },
         {
@@ -790,7 +790,7 @@
                 "variable.other.property"
             ],
             "settings": {
-                "foreground": "#A8B5D1",
+                "foreground": "#a8b5d1",
                 "fontStyle": ""
             }
         },
