@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "electron-highlighter" extension will be documented in this file.
 
+## 1.2.7
+- Change `tab.activeBorder` to `tab.activeBorderTop`
+
 ## 1.2.6
 - Minor UI updates, mostly around standardizing highlight colors for selection ranges
 
