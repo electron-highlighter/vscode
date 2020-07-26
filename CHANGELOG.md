@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to the "electron-highlighter" extension will be documented in this file.
 
+## 1.2.8
+- Explicitly set `tab.activeBorder` to the background color
+- Change the base `variable` color from green to gray (not sure how/why it ever got set to green... sorry about that)
+
 ## 1.2.7
 - Change `tab.activeBorder` to `tab.activeBorderTop`
 

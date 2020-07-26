@@ -178,6 +178,7 @@
       "statusBarItem.prominentBackground": "#212836",
       "statusBarItem.prominentHoverBackground": "#212836",
       "tab.activeBackground": "{{ backgroundColor }}",
+      "tab.activeBorder": "{{ backgroundColor }}",
       "tab.activeBorderTop": "{{ blue }}",
       "tab.activeForeground": "#d5d9e2",
       "tab.border": "#181a1f",
@@ -342,7 +343,7 @@
           "name": "Variable",
           "scope": "variable",
           "settings": {
-              "foreground": "{{ green }}"
+              "foreground": "{{ lightGray }}"
           }
       },
       {
