@@ -1808,6 +1808,15 @@
             }
         },
         {
+            "name": "HTML Class Component (Vue, React, etc)",
+            "scope": [
+                "support.class.component.html"
+            ],
+            "settings": {
+                "foreground": "#ff5874"
+            }
+        },
+        {
             "name": "Text nested in React tags",
             "scope": [
                 "meta.jsx.children",
