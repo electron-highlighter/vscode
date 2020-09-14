@@ -2,7 +2,7 @@
   "name": "electron-highlighter",
   "displayName": "Electron Highlighter Syntax",
   "description": "Electron highlighter syntax theme from Atom",
-  "version": "1.2.9",
+  "version": "1.2.10",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -10,7 +10,7 @@
   },
   "bugs": {
     "url": "https://github.com/mikemcbride/vscode-electron-highlighter/issues",
-    "email": "mmcbride1007@icloud.com"
+    "email": "mike.mcbride@hey.com"
   },
   "publisher": "mikemcbride",
   "engines": {

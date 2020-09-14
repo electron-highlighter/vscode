@@ -1100,7 +1100,7 @@
           "name": "Property Values for CSS",
           "scope": [
              "support.constant.font-name",
-             "support.constant.color" 
+             "support.constant.color"
           ],
           "settings": {
               "foreground": "{{ orange }}"
@@ -1805,6 +1805,15 @@
           "settings": {
               "foreground": "{{ purple }}",
               "fontStyle": ""
+          }
+      },
+      {
+          "name": "HTML Class Component (Vue, React, etc)",
+          "scope": [
+              "support.class.component.html"
+          ],
+          "settings": {
+              "foreground": "{{ red }}"
           }
       },
       {
