@@ -69,7 +69,7 @@
         "editorIndentGuide.background": "#ffffff06",
         "editorLineNumber.activeForeground": "#757f92",
         "editorLineNumber.foreground": "#465066",
-        "editorLink.activeForeground": "#ffffff00",
+        "editorLink.activeForeground": "#4ff2f8",
         "editorMarkerNavigation.background": "#171c26",
         "editorMarkerNavigationError.background": "#ff5874",
         "editorMarkerNavigationWarning.background": "#ffbf7a",
