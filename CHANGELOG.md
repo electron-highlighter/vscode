@@ -1,6 +1,12 @@
 # Change Log
 All notable changes to the "electron-highlighter" extension will be documented in this file.
 
+## 1.2.11
+- Fixes "Go to definition" highlighting (`editorLink.activeForeground`) color being transparent. This made text disappear when using `option + click` to navigate to a different file. It is now cyan and underlined.
+
+## 1.2.10
+- Make JavaScript component tags in HTML (like React, Vue, Svelte) use the same color tag as HTML tags
+
 ## 1.2.9
 - Actually do the stuff from 1.2.8
 - Fix the `publish` script so it actually rebuilds the theme before publishing... 🤦‍♂
@@ -100,5 +106,5 @@ Doing a minor bump here because this kind of significantly changes the look of J
 ## 1.0.0...1.1.10
 - Sorry... I did a bad job documenting changes. I'll try to be better going forward.
 
-## 1.0.0 
+## 1.0.0
 - Initial release
