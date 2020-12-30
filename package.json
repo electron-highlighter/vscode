@@ -17,7 +17,7 @@
     "vscode": "^1.22.0"
   },
   "scripts": {
-    "build": "node ./config/build.js",
+    "build": "build-theme",
     "publish": "npm run build && vsce publish"
   },
   "categories": [
@@ -42,5 +42,8 @@
   },
   "devDependencies": {
     "lodash": "^4.17.19"
+  },
+  "dependencies": {
+    "@two-beards/vscode-theme-builder": "^1.0.0"
   }
 }
