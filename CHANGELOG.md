@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "electron-highlighter" extension will be documented in this file.
 
+## 1.2.12
+- Updates `.vscodeignore` to ignore unnecessary content when publishing the extension. This could cause the extension to be bloated with JS files we are only using for development.
+
 ## 1.2.11
 - Fixes "Go to definition" highlighting (`editorLink.activeForeground`) color being transparent. This made text disappear when using `option + click` to navigate to a different file. It is now cyan and underlined.
 
