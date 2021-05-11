@@ -41,7 +41,7 @@
     ]
   },
   "devDependencies": {
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   },
   "dependencies": {
     "@two-beards/vscode-theme-builder": "^1.0.0"
