@@ -1,15 +1,16 @@
 module.exports = {
-  red: '#ff5874',
-  orange: '#ffbf7a',
-  yellow: '#fffa9e',
-  green: '#6af699',
-  cyan: '#4ff2f8',
+  red: '#f7768e',
+  orange: '#ffd9af',
+  yellow: '#fcf9c3',
+  green: '#58ffc7',
+  cyan: '#57f9ff',
   blue: '#82aaff',
-  purple: '#c792ea',
+  purple: '#d2a6ef',
   pink: '#ff2c83',
   black: '#141820',
+  background: '#24283B',
   darkGray: '#506686',
-  gray: '#99a3b8',
+  gray: '#7c8eac',
   lightGray: '#a8b5d1',
-  white: '#f8fafd'
+  white: '#c5cee0'
 }
