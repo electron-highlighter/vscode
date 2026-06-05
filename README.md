@@ -2,7 +2,7 @@
   <img src="images/icon.png" width="200" height="200">
 	<h1>Electron Highlighter Syntax</h1>
 	<p>
-		<b>A dark syntax theme for VS Code</b>
+		<b>A dark & light syntax theme for VS Code</b>
 	</p>
 	<br>
 	<br>
@@ -11,7 +11,7 @@
 
 ## About
 
-Electron Highlighter Syntax is a dark UI and syntax theme for VS Code. This started as the official[`[1]`](#notes) VS Code port of my [Electron Highlighter syntax theme for Atom](https://github.com/mikemcbride/electron-highlighter-syntax), but I have since switched to using VS Code as my main editor so it's no longer really a "port".
+Electron Highlighter Syntax is a dark UI and syntax theme for VS Code. This started as the official[`[1]`](#notes) VS Code port of my [Electron Highlighter syntax theme for Atom](https://github.com/mikemcbride/electron-highlighter-syntax), but I have since switched to using VS Code as my main editor so it's no longer really a "port". It now also ships a light variant, **Electron Highlighter Day** — pick either theme from the VS Code theme picker.
 
 ## Screenshots
 

@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "electron-highlighter" extension will be documented in this file.
 
+## 1.4.0
+- Add **Electron Highlighter Day**, a light theme variant. Select "Electron Highlighter Day" from the VS Code theme picker.
+
 ## 1.2.12
 - Updates `.vscodeignore` to ignore unnecessary content when publishing the extension. This could cause the extension to be bloated with JS files we are only using for development.
 
