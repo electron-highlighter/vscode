@@ -1,15 +1,9 @@
-// Light palette for Electron Highlighter Day. Values mirror the canonical
-// palette (electron-highlighter/palette: electron-day.js). The var NAMES keep
-// their dark-theme roles, so neutrals are inverted for light:
-//   black  = darkest dark-chrome  -> light chrome surface
-//   white  = brightest text       -> on-accent light text
-//   lightGray = editor foreground -> dark text
-//   gray   = secondary UI text    -> mid-dark
-//   darkGray = comments           -> muted
+// Generated from electron-highlighter/palette (Electron Highlighter Day). Do not edit by hand.
+// Run `npm run build` in the palette repo to regenerate.
 module.exports = {
   red: '#f52a65',
   orange: '#f0633c',
-  yellow: '#d18a16',
+  yellow: '#df8e1d',
   green: '#10a877',
   cyan: '#0a9fbf',
   blue: '#366ff0',
