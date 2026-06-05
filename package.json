@@ -37,6 +37,11 @@
         "label": "Electron Highlighter",
         "uiTheme": "vs-dark",
         "path": "./themes/electron-highlighter-color-theme.json"
+      },
+      {
+        "label": "Electron Highlighter Day",
+        "uiTheme": "vs",
+        "path": "./themes/electron-highlighter-day-color-theme.json"
       }
     ]
   },
