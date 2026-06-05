@@ -2,7 +2,7 @@
   "name": "electron-highlighter",
   "displayName": "Electron Highlighter Syntax",
   "description": "Electron highlighter syntax theme from Atom",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -37,6 +37,11 @@
         "label": "Electron Highlighter",
         "uiTheme": "vs-dark",
         "path": "./themes/electron-highlighter-color-theme.json"
+      },
+      {
+        "label": "Electron Highlighter Day",
+        "uiTheme": "vs",
+        "path": "./themes/electron-highlighter-day-color-theme.json"
       }
     ]
   },
